@@ -48,4 +48,4 @@ erDiagram
     POSTS ||--o{ COMMENTS : "tiene"
     USERS ||--o{ FOLLOWERS : "seguido por"
 
-```mermaid
+```
