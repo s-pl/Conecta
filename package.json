@@ -1,0 +1,24 @@
+{
+  "name": "conecta",
+  "version": "1.0.0",
+  "description": "```mermaid\r erDiagram\r     USERS {\r         int id PK\r         string username\r         string email\r         string passwordHash\r         string bio\r         string avatarUrl\r         datetime createdAt\r     }",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/s-pl/Conecta.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/s-pl/Conecta/issues"
+  },
+  "homepage": "https://github.com/s-pl/Conecta#readme",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
